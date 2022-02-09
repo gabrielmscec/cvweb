@@ -96,6 +96,11 @@ hr {
   margin-right: 170px;
 }
 
+.frontskills {
+  position: relative;
+  right: 40px;
+}
+
 .backend-img {
   width: 33%;
   float: right;
